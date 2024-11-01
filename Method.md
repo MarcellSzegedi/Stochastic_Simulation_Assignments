@@ -1,4 +1,4 @@
-![view Assignment 1](Assignment 1.png)
+![Image about Assignment 1](Assignment 1.png)
 ---
 # Step 1: Implement Sampling Techniques
 
