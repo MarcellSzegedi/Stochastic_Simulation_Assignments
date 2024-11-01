@@ -1,4 +1,4 @@
-![image.png](attachment:97b261b1-b819-4839-9b1a-f28d78aa17d6.png)
+[View the PDF documentation](https://github.com/MarcellSzegedi/Stochastic_Simulation_I./blob/main/Assignment%201%20-%20MANDELBROT.pdf)
 ---
 # Step 1: Implement Sampling Techniques
 
