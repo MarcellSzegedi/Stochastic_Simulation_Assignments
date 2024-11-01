@@ -1,4 +1,4 @@
-![Image about Assignment 1](Assignment 1.png)
+![ImageAssignment1](https://github.com/MarcellSzegedi/Stochastic_Simulation_I./blob/main/Assignment%201.png)
 ---
 # Step 1: Implement Sampling Techniques
 
